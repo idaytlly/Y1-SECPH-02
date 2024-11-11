@@ -1,3 +1,0 @@
-dwd
-dwdw
-wsws
