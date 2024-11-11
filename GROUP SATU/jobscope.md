@@ -12,5 +12,21 @@ markdown
 | SOFTWARE DEVELOPER (SD)  | Haykal/Aman | Deciding the best name, colors, button shapes, and message delivery to make the software interactive, creative, and memorable.                                                           | PROTOTYPE |
 | SOFTWARE DEVELOPER (SD)  | Aman        | Allowing external users to test the prototype and gather responses, feedback, and ratings.                                                                                               | TEST      |
 | DATA COLLECTOR (DC)      | Auni        | Providing a platform (e.g., Google Form) for users to confirm whether their issues are resolved after using the prototype software.                                                      | TEST      |
-
+<table>
+  <tr>
+    <th style="background-color:#ffcccb">Header 1</th>
+    <th style="background-color:#add8e6">Header 2</th>
+    <th style="background-color:#90ee90">Header 3</th>
+  </tr>
+  <tr>
+    <td style="background-color:#ffebcd">Row 1, Cell 1</td>
+    <td style="background-color:#fafad2">Row 1, Cell 2</td>
+    <td style="background-color:#e0ffff">Row 1, Cell 3</td>
+  </tr>
+  <tr>
+    <td style="background-color:#ffdab9">Row 2, Cell 1</td>
+    <td style="background-color:#ffe4e1">Row 2, Cell 2</td>
+    <td style="background-color:#e6e6fa">Row 2, Cell 3</td>
+  </tr>
+</table>
  
