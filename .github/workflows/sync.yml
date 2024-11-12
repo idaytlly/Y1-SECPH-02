@@ -22,5 +22,5 @@ jobs:
         env:
           TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         run: |
-          git remote add secondary https://$TOKEN@github.com/AmanSufian/Y1-SECPH-02
+          git remote add secondary https://$TOKEN@github.com/AmanSufian/Y1-SECPH-02.git
           git push secondary main --force
